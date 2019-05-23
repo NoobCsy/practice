@@ -1,0 +1,5 @@
+html,body {
+    height: 100%;
+}
+body {
+    background: linear-gradient(red,orange,yellow,green,skyblue,blue,purple);
